@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Barrel - Audio Connectors")(type KiCad)(uri "/Users/mac/Documents/KiCad/hdmi_to_mipi-dsi_converter/lib_fp.pretty/Barrel - Audio Connectors.pretty")(options "")(descr ""))
+  (lib (name HDMI)(type KiCad)(uri /Users/mac/Documents/KiCad/hdmi_to_mipi-dsi_converter/lib_fp.pretty/HDMI.pretty)(options "")(descr ""))
+  (lib (name 60_PIN_FPC)(type KiCad)(uri /Users/mac/Documents/KiCad/hdmi_to_mipi-dsi_converter/lib_fp.pretty/60_PIN_FPC.pretty)(options "")(descr ""))
+  (lib (name TC358870XBG)(type KiCad)(uri /Users/mac/Documents/KiCad/hdmi_to_mipi-dsi_converter/lib_fp.pretty/TC358870XBG.pretty)(options "")(descr ""))
+  (lib (name 74438357068_ind)(type KiCad)(uri "C:/Users/user/Documents/KICAD DESIGNS/KICAD CLONES IN USE/hdmi_to_mipi-dsi_converter/hdmi_to_mipi-dsi_converter/lib_sch/74438357068_ind.pretty")(options "")(descr ""))
+  (lib (name TPS54332)(type KiCad)(uri "C:/Users/user/Documents/KICAD DESIGNS/KICAD CLONES IN USE/hdmi_to_mipi-dsi_converter/hdmi_to_mipi-dsi_converter/lib_fp.pretty/TPS54332.pretty")(options "")(descr ""))
+)

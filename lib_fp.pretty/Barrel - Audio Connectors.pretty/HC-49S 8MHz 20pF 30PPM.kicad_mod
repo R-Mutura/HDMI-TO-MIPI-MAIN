@@ -1,0 +1,8 @@
+(module "HC-49S 8MHz 20pF 30PPM" (layer F.Cu) (tedit 5FBB89AF)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "HC-49S 8MHz 20pF 30PPM" (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

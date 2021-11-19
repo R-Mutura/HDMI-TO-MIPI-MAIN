@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:\\Users\\user\\Documents\\KICAD DESIGNS\\KICAD CLONES IN USE\\hdmi_to_mipi-dsi_converter\\hdmi_to_mipi-dsi_converter\\src_files\\hdmi_to_mipi-dsi_converter.sch")
-    (date "11/18/2021 9:46:31 PM")
+    (date "11/19/2021 7:09:46 PM")
     (tool "Eeschema (5.1.10)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -284,7 +284,7 @@
       (tstamp 5FE7543F))
     (comp (ref FB1)
       (value Ferrite_Bead_Small)
-      (footprint "Barrel - Audio Connectors:BEADC2012X105N")
+      (footprint Inductor_SMD:L_0603_1608Metric)
       (datasheet ~)
       (fields
         (field (name MPN) BLM21PG220SN1))
@@ -486,7 +486,7 @@
       (tstamp 60592B2A))
     (comp (ref U8)
       (value FXMA2104UMX)
-      (footprint "Barrel - Audio Connectors:QFN40P180X180X55-12N")
+      (footprint SamacSys_Parts_2:QFN40P180X180X55-12N)
       (datasheet https://www.fairchildsemi.com/datasheets/FX/FXMA2104.pdf)
       (libsource (lib hdmi_to_mipi-dsi_converter-rescue) (part FXMA2104UMX-FXMA2104MUX) (description ""))
       (sheetpath (names /mcu_ctrl/) (tstamps /60476624/))
@@ -528,7 +528,7 @@
       (tstamp 60650160))
     (comp (ref FB2)
       (value BLM21PG220SN1)
-      (footprint Inductor_SMD:L_0805_2012Metric)
+      (footprint Inductor_SMD:L_0603_1608Metric)
       (datasheet ~)
       (fields
         (field (name MPN) FBMJ2125HS250NTV_805))
@@ -864,7 +864,7 @@
       (tstamp 61AB8B3A))
     (comp (ref FB3)
       (value FBMJ1608HS280NTR)
-      (footprint Resistor_SMD:R_0603_1608Metric)
+      (footprint Inductor_SMD:L_0603_1608Metric)
       (datasheet ~)
       (fields
         (field (name MPN) FBMJ1608HS280NTR)
@@ -1126,7 +1126,7 @@
       (tstamp 5FDFA610))
     (comp (ref FB4)
       (value Ferrite_Bead_Small)
-      (footprint "Barrel - Audio Connectors:BEADC2012X105N")
+      (footprint Inductor_SMD:L_0603_1608Metric)
       (datasheet ~)
       (fields
         (field (name MPN) BLM21PG220SN1))

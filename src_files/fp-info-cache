@@ -1,4 +1,4 @@
-20851453239559670
+20918822905108177
 74438357068_ind
 74438357068
 
@@ -51869,6 +51869,83 @@ heatsink
 0
 2
 1
+Heatsinks
+Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
+Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
+Heatsink, 35mm x 26mm, 1x Fixation 3mm, Kuehlkoerper, Fischer SK486-35, Strangkuehlkoerper
+0
+1
+1
+Heatsinks
+Heatsink_38x38mm_SpringFixation
+Heatsink, 38x38mm, Spring Fixation, diagonal,
+Heatsink, 38x38mm, Spring Fixation, diagonal, Kuehlkoerper, Federbefestigung,
+0
+4
+1
+Heatsinks
+Heatsink_62x40mm_2xFixation3mm
+Heatsink, 62 x 40mm, 2x 3mm Drills,
+Heatsink, 62 x 40mm, 2x 3mm Drills,
+0
+2
+1
+Heatsinks
+Heatsink_125x35x50mm_3xFixationM3
+
+Heatsink, 125x35x50mm, 3 fixation holes 3.2mm
+0
+0
+0
+Heatsinks
+Heatsink_AAVID_573300D00010G_TO-263
+Heatsink, 12.70mm x 26.16mm x 10.16, SMD, 18K/W, TO-263, D2 Pak, https://www.aavid.com/products/standard/573300d00010g
+Heatsink AAVID TO-263 D2 Pak
+0
+2
+1
+Heatsinks
+Heatsink_Aavid-TV5G_TO220_Horizontal
+http://www.aavid.eu/products/standard/tv5g
+Heatsink TV5G TO-220 Horizontal 
+0
+0
+0
+Heatsinks
+Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm
+Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,
+Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC, Kuehlkoerper,  Strangkuehlkoerper, Loetbefestigung, for TO-220
+0
+2
+1
+Heatsinks
+Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3
+Heatsink, 35mm x 13mm, 2x Fixation Screw M3, Fischer SK104-STCB,
+Heatsink, 35mm x 13mm, 2x Fixation Screw M3, Fischer SK104-STCB, Kuehlkoerper,  Strangkuehlkoerper, Schraubbefestigung, Screwed, for TO-220
+0
+2
+1
+Heatsinks
+Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm
+
+
+0
+2
+1
+Heatsinks
+Heatsink_SheetType_50x7mm_2Fixations
+Heatsink, Sheet type, 50x7mm, 2 fixations (solder),
+Heatsink, Sheet type, 50x7mm, 2 fixations (solder), Kuehlkoerper, From ATX-SMPS Scrap,
+0
+2
+1
+Heatsinks
+Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
+
+
+0
+2
+1
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -79428,6 +79505,20 @@ Connector
 0
 0
 0
+Capacitor
+0
+4
+4
+0
+0
+0
+Inductor
+0
+2
+2
+0
+0
+0
 Loudspeaker or Buzzer
 0
 2
@@ -79484,6 +79575,13 @@ Inductor
 0
 0
 0
+Inductor
+0
+2
+2
+0
+0
+0
 Integrated Circuit
 0
 6
@@ -79507,6 +79605,20 @@ Connector
 0
 Integrated Circuit
 0
+12
+12
+0
+0
+0
+Integrated Circuit
+0
+41
+41
+0
+0
+0
+Integrated Circuit
+0
 17
 17
 0
@@ -79523,6 +79635,13 @@ Integrated Circuit
 0
 25
 25
+0
+0
+0
+Integrated Circuit
+0
+29
+29
 0
 0
 0
@@ -79549,12 +79668,26 @@ Integrated Circuit
 0
 Integrated Circuit
 0
+65
+65
+0
+0
+0
+Integrated Circuit
+0
 49
 49
 0
 0
 0
 Power Supply
+0
+4
+4
+0
+0
+0
+Filter
 0
 4
 4
@@ -79574,7 +79707,7 @@ Integrated Circuit
 21
 0
 0
-8
+0
 Integrated Circuit
 0
 8
@@ -79586,6 +79719,34 @@ Integrated Circuit
 0
 9
 9
+0
+0
+0
+Integrated Circuit
+0
+9
+9
+0
+0
+0
+Integrated Circuit
+0
+8
+8
+0
+0
+0
+Integrated Circuit
+0
+15
+15
+0
+0
+0
+Diode
+0
+3
+3
 0
 0
 0
@@ -79614,6 +79775,13 @@ MOSFET (P-Channel)
 0
 10
 10
+0
+0
+0
+Connector
+0
+2
+2
 0
 0
 0
@@ -79628,6 +79796,20 @@ MOSFET (N-Channel)
 0
 3
 3
+0
+0
+0
+Integrated Circuit
+0
+30
+30
+0
+0
+0
+Integrated Circuit
+0
+13
+13
 0
 0
 0
@@ -89625,6 +89807,20 @@ varistor SIOV
 12
 12
 0
+70
+0
+
+0
+14
+14
+0
+70
+0
+
+0
+14
+14
+0
 72309
 0
 
@@ -89638,6 +89834,20 @@ varistor SIOV
 0
 42
 42
+0
+0
+0
+Capacitor
+0
+4
+4
+0
+0
+0
+Inductor
+0
+2
+2
 0
 0
 0
@@ -89683,10 +89893,24 @@ Relay or Contactor
 0
 0
 0
+Inductor
+0
+2
+2
+0
+0
+0
 
 0
 4
 2
+0
+0
+0
+
+0
+38
+35
 0
 0
 0
@@ -89739,6 +89963,27 @@ Power Supply
 0
 0
 0
+
+0
+2
+1
+0
+0
+0
+Integrated Circuit
+0
+41
+41
+0
+0
+0
+Integrated Circuit
+0
+29
+29
+0
+0
+0
 Integrated Circuit
 0
 48
@@ -89764,6 +90009,20 @@ Integrated Circuit
 0
 6
 6
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
+Filter
+0
+4
+4
 0
 0
 0
@@ -89795,6 +90054,20 @@ Inductor
 0
 0
 0
+Integrated Circuit
+0
+9
+9
+0
+0
+0
+Integrated Circuit
+0
+8
+8
+0
+0
+0
 
 0
 5
@@ -89803,6 +90076,13 @@ Inductor
 0
 0
 Inductor
+0
+2
+2
+0
+0
+0
+Connector
 0
 2
 2
@@ -89827,6 +90107,13 @@ Integrated Circuit
 0
 17
 17
+0
+0
+0
+Integrated Circuit
+0
+13
+13
 0
 0
 0
@@ -89862,6 +90149,13 @@ Connector
 0
 14
 7
+0
+0
+0
+
+0
+2
+2
 0
 0
 0
